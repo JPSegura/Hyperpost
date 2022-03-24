@@ -1,2 +1,2 @@
 # Hyperpost
-Blogpost de curso de Git y Github
+Blogpost increible de curso de Git y Github
